@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 114,
+    "height" : 244
+  }, {
+    "width" : 227,
+    "height" : 487
+  }, {
+    "width" : 453,
+    "height" : 974
+  }, {
+    "width" : 906,
+    "height" : 1947
+  }, {
+    "width" : 1812,
+    "height" : 3893
+  }, {
+    "width" : 3624,
+    "height" : 7785
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3624,
+  "@id" : "https://jlparson.github.io/sample-project-1/images/statue_of_josephine_baker",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 7785
+}
