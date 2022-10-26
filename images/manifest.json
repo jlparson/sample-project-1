@@ -1,0 +1,66 @@
+{
+  "id" : "https://jlparson.github.io/sample-project-1/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in jlparson/sample-project-1 project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 1000,
+    "id" : "https://jlparson.github.io/sample-project-1/images/test_image/canvas/",
+    "label" : {
+      "none" : [ "test_image" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://jlparson.github.io/sample-project-1/images/test_image/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://jlparson.github.io/sample-project-1/images/test_image/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 32,
+              "height" : 16
+            }, {
+              "width" : 63,
+              "height" : 32
+            }, {
+              "width" : 125,
+              "height" : 63
+            }, {
+              "width" : 250,
+              "height" : 125
+            }, {
+              "width" : 500,
+              "height" : 250
+            }, {
+              "width" : 1000,
+              "height" : 500
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1000,
+            "@id" : "https://jlparson.github.io/sample-project-1/images/test_image",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 500
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1000,
+          "id" : "https://jlparson.github.io/sample-project-1/images/test_image/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 500
+        },
+        "target" : "https://jlparson.github.io/sample-project-1/images/test_image/canvas/"
+      } ]
+    } ],
+    "height" : 500
+  } ]
+}
