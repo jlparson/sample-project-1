@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3624,
+    "id" : "https://jlparson.github.io/sample-project-1/images/statue_of_josephine_baker/canvas/",
+    "label" : {
+      "none" : [ "statue_of_josephine_baker" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://jlparson.github.io/sample-project-1/images/statue_of_josephine_baker/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://jlparson.github.io/sample-project-1/images/statue_of_josephine_baker/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 114,
+              "height" : 244
+            }, {
+              "width" : 227,
+              "height" : 487
+            }, {
+              "width" : 453,
+              "height" : 974
+            }, {
+              "width" : 906,
+              "height" : 1947
+            }, {
+              "width" : 1812,
+              "height" : 3893
+            }, {
+              "width" : 3624,
+              "height" : 7785
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3624,
+            "@id" : "https://jlparson.github.io/sample-project-1/images/statue_of_josephine_baker",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 7785
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3624,
+          "id" : "https://jlparson.github.io/sample-project-1/images/statue_of_josephine_baker/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 7785
+        },
+        "target" : "https://jlparson.github.io/sample-project-1/images/statue_of_josephine_baker/canvas/"
+      } ]
+    } ],
+    "height" : 7785
+  }, {
     "width" : 1000,
     "id" : "https://jlparson.github.io/sample-project-1/images/test_image/canvas/",
     "label" : {
