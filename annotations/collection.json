@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://jlparson.github.io/sample-project-1/annotations/jbprojectmanifestannotations.json" ],
+  "@id" : "https://jlparson.github.io/sample-project-1/annotations/collection.json",
+  "label" : "All annotations loaded in jlparson/sample-project-1 project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
