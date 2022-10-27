@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Material:&nbsp;<span style=\"color: #00315f; font-family: Montserrat, sans-serif; font-size: 16px;\">bronze (metal)/copper alloy/nonferrous metal/metal/inorganic material/materials (substances)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Material:&nbsp;<span style=\"color: #00315f; font-family: Montserrat, sans-serif; font-size: 16px;\">bronze (metal)/copper alloy/nonferrous metal/metal/inorganic material/materials (substances)</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/89013717",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T14:33:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666881221139",
+    "dcterms:modified" : "2022-10-27T14:33:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jlparson.github.io/sample-project-1/manifests/projectmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=430,419,2935,1695"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M429.8338,418.51939h1467.42659v0h1467.42659v847.43006v847.43006h-1467.42659h-1467.42659v-847.43006z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0ca63f50-3a4f-4f0b-8f96-6c93fffe8223\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3f4205f6-669a-4570-a7bb-d3130a45e743"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Accession no: EU2990",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Accession no: EU2990</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/89013717",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T14:34:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666881251705",
+    "dcterms:modified" : "2022-10-27T14:34:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jlparson.github.io/sample-project-1/manifests/projectmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=0,4805,1307,1041"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M191.31556,4957.01605c120.65238,-87.4342 290.8521,-152.54349 461.87661,-152.46571v0v0c171.02451,0.07779 320.01554,60.98648 461.87661,152.46571c141.86106,91.47923 197.00066,230.87591 191.31556,368.08477c-5.68511,137.20887 -72.19492,272.22992 -191.31556,368.08477c-119.12064,95.85485 -290.8521,152.54349 -461.87661,152.46571c-171.02451,-0.07779 -341.34206,-56.92201 -461.87661,-152.46571c-120.53455,-95.54369 -191.2861,-229.78686 -191.31556,-368.08477c-0.02946,-138.29791 70.66318,-280.65057 191.31556,-368.08477z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_0406e904-5787-4582-af62-e0569d176627\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3f4205f6-669a-4570-a7bb-d3130a45e743"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dimensions:&nbsp;<span style=\"color: #00315f; font-family: Montserrat, sans-serif; font-size: 16px;\">88 cm (H) 20cm widest point base: 11.5 x11.5 cm",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dimensions:&nbsp;<span style=\"color: #00315f; font-family: Montserrat, sans-serif; font-size: 16px;\">88 cm (H) 20cm widest point base: 11.5 x11.5 cm</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/89013717",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T14:33:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666881184304",
+    "dcterms:modified" : "2022-10-27T14:33:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jlparson.github.io/sample-project-1/manifests/projectmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1044,30,1533,7323"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1044.43906,30.34765h766.56094v0h766.56094v3661.67521v3661.67521h-766.56094h-766.56094v-3661.67521z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b7ded3c0-ea7f-40b3-a8f8-cc7da4249fc9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3f4205f6-669a-4570-a7bb-d3130a45e743"
+    } ]
+  } ],
+  "@id" : "https://jlparson.github.io/sample-project-1/annotations/jbprojectmanifestannotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
