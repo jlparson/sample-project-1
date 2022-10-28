@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://jlparson.github.io/sample-project-1/annotations/jbprojectmanifestannotations.json", "https://jlparson.github.io/sample-project-1/annotations/bust_annotation.json", "https://jlparson.github.io/sample-project-1/annotations/sideview_1_annotation.json" ],
+  "otherContent" : [ "https://jlparson.github.io/sample-project-1/annotations/jbprojectmanifestannotations.json", "https://jlparson.github.io/sample-project-1/annotations/bust_annotation.json", "https://jlparson.github.io/sample-project-1/annotations/sideview_1_annotation.json", "https://jlparson.github.io/sample-project-1/annotations/sideview_2_annotation.json" ],
   "@id" : "https://jlparson.github.io/sample-project-1/annotations/collection.json",
   "label" : "All annotations loaded in jlparson/sample-project-1 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
