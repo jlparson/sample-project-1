@@ -1,0 +1,248 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://jlparson.github.io/sample-project-1/manifests/jbprojectmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Portrait of Josephine Baker by Eduardo Luigi Paolozzi KBE, RA (b.1924, d.2005)",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Portrait of Josephine Baker in bronze",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "viewingHint" : "individuals",
+  "attribution" : "University of Edinburgh Art Collection, University of Edinburgh",
+  "sequences" : [ {
+    "@id" : "http://d13eed73-c1c1-444f-92d6-bd36424134d3",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://3f4205f6-669a-4570-a7bb-d3130a45e743",
+      "@type" : "sc:Canvas",
+      "label" : "Portrait of Josephine Baker, front view",
+      "height" : 7785,
+      "width" : 3624,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5a0787d5-0829-4729-8953-d6ef5d975af0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/front_view/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/front_view",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 7785,
+          "width" : 3624
+        },
+        "on" : "http://3f4205f6-669a-4570-a7bb-d3130a45e743"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jlparson.github.io/sample-project-1/annotations/jbprojectmanifestannotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9c70e490-f97d-4130-b05f-72fbc7f2b3a9",
+      "@type" : "sc:Canvas",
+      "label" : "Portrait of Josephine Baker, side view 1",
+      "height" : 6968,
+      "width" : 2337,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1a07c33e-dfd9-4d1d-95a3-56bd65fe5b3b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jb_image2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jb_image2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 6968,
+          "width" : 2337
+        },
+        "on" : "http://9c70e490-f97d-4130-b05f-72fbc7f2b3a9"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5e4f29d8-ca20-4917-89ae-92ec348bc245",
+      "@type" : "sc:Canvas",
+      "label" : "Portrait of Josephine Baker, side view 2",
+      "height" : 7057,
+      "width" : 2877,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fb3ae391-451c-4cfb-a0cd-e72ad9cf0ab7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jb_image3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jb_image3",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 7057,
+          "width" : 2877
+        },
+        "on" : "http://5e4f29d8-ca20-4917-89ae-92ec348bc245"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d89575b5-521e-42bf-807b-6092256c57cf",
+      "@type" : "sc:Canvas",
+      "label" : "Portrait of Josephine Baker, bust",
+      "height" : 5484,
+      "width" : 3548,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://567c4a3b-7f6c-43e4-8735-8e8af7712520",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jb_image4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jb_image4",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 5484,
+          "width" : 3548
+        },
+        "on" : "http://d89575b5-521e-42bf-807b-6092256c57cf"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9dfa4967-bc9f-4762-9acf-156395d7e9a4",
+      "@type" : "sc:Canvas",
+      "label" : "Portrait of Josephine Baker, bust, side view",
+      "height" : 5361,
+      "width" : 3756,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://aafb8c70-0d2e-4d86-96d7-45fac8961f23",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jb_image5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jb_image5",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 5361,
+          "width" : 3756
+        },
+        "on" : "http://9dfa4967-bc9f-4762-9acf-156395d7e9a4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0ffb2b86-8db2-496b-ade8-4ff7bc60cc39",
+      "@type" : "sc:Canvas",
+      "label" : "Portrait of Josephine Baker, front view on black background",
+      "height" : 6648,
+      "width" : 3185,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://09381e76-00b5-4628-b821-38d8837ed0ab",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jb_image6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jb_image6",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 6648,
+          "width" : 3185
+        },
+        "on" : "http://0ffb2b86-8db2-496b-ade8-4ff7bc60cc39"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e8dfa962-7721-4314-94b5-e361205fb281",
+      "@type" : "sc:Canvas",
+      "label" : "Portrait of Josephine Baker, side view 1 on black background",
+      "height" : 6953,
+      "width" : 3676,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9a172257-0043-410d-8ce1-418f447c1d39",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jb_image7/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jb_image7",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 6953,
+          "width" : 3676
+        },
+        "on" : "http://e8dfa962-7721-4314-94b5-e361205fb281"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://25e05684-5f8c-4634-8551-0ed5b8ec0a30",
+      "@type" : "sc:Canvas",
+      "label" : "Portrait of Josephine Baker, side view 2 on black background",
+      "height" : 5533,
+      "width" : 4069,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c8650aa8-e771-4661-9b59-d24674fa3e59",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jb_image8/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jb_image8",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 5533,
+          "width" : 4069
+        },
+        "on" : "http://25e05684-5f8c-4634-8551-0ed5b8ec0a30"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Introduction",
+    "canvases" : [ "https://iiif.archivelab.org/iiif/front_view" ]
+  } ]
+}
