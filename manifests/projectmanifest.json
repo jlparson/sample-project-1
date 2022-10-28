@@ -43,6 +43,11 @@
         },
         "on" : "http://3f4205f6-669a-4570-a7bb-d3130a45e743"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/89013717/40f6c8a1a422328535768a48272095dd.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://9c70e490-f97d-4130-b05f-72fbc7f2b3a9",
@@ -68,6 +73,11 @@
           "width" : 2337
         },
         "on" : "http://9c70e490-f97d-4130-b05f-72fbc7f2b3a9"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/89013717/c799f1ea8281d4e4eed6fadcd7007468.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations 2"
       } ],
       "related" : ""
     }, {
@@ -120,6 +130,11 @@
           "width" : 3548
         },
         "on" : "http://d89575b5-521e-42bf-807b-6092256c57cf"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/89013717/c8c62e21df817e72b9e48bfc1a7fb82f.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations 3"
       } ],
       "related" : ""
     }, {
@@ -224,6 +239,11 @@
           "width" : 4069
         },
         "on" : "http://25e05684-5f8c-4634-8551-0ed5b8ec0a30"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/89013717/273efccd0aaa48ef0c7e33fcd1f4bca8.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations 4"
       } ],
       "related" : ""
     } ]
