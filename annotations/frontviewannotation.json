@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Accession no: EU2990",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Accession no: EU2990</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/89013717",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T14:34:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666881251705",
+    "dcterms:modified" : "2022-10-28T08:41:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jlparson.github.io/sample-project-1/manifests/projectmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=129,222,1307,1041"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M320.70615,374.43295c120.65238,-87.4342 290.8521,-152.5435 461.87661,-152.46571v0v0c171.02451,0.07779 320.01554,60.98648 461.87661,152.46571c141.86107,91.47923 197.00067,230.8759 191.31556,368.08477c-5.68511,137.20887 -72.19492,272.22992 -191.31556,368.08477c-119.12064,95.85485 -290.8521,152.5435 -461.87661,152.46571c-171.02451,-0.07779 -341.34206,-56.92201 -461.87661,-152.46571c-120.53455,-95.5437 -191.2861,-229.78686 -191.31556,-368.08477c-0.02946,-138.29791 70.66318,-280.65057 191.31556,-368.08477z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_0406e904-5787-4582-af62-e0569d176627\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"64.69529\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3f4205f6-669a-4570-a7bb-d3130a45e743"
+    } ]
+  } ],
+  "@id" : "https://jlparson.github.io/sample-project-1/annotations/frontviewannotation.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
