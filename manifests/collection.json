@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://jlparson.github.io/sample-project-1/manifests/manifest2.json",
-    "label" : "A painting of a dog playing in a field"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://jlparson.github.io/sample-project-1/manifests/projectmanifest.json",
     "label" : "Portrait of Josephine Baker by Eduardo Luigi Paolozzi KBE, RA (b.1924, d.2005)"
   } ]
